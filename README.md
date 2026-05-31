@@ -67,3 +67,5 @@ As sugestões geradas pelo Midas Lab são produzidas por modelo estatístico sim
 ## 📄 Licença
 
 MIT License
+
+Storytelling: https://www.youtube.com/watch?v=yuA9UBuVywA&t=558s

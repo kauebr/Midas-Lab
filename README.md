@@ -1,3 +1,5 @@
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/881a2913-41dc-47bd-b0c7-9875aedb1c3e" />
+
 # ⚗ Midas Lab
 
 Pipeline de inteligência preditiva para ações da B3. Coleta dados de +400 ativos, treina regressão linear por ação, classifica previsibilidade e sugere carteira batendo a Selic. Inclui backtest real — simulamos quanto R$ 100k teriam rendido se investidos 3 meses atrás.
